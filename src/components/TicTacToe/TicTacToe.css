@@ -1,0 +1,23 @@
+.winner {
+    text-align: center;
+}
+
+.restart {
+    padding: 15px 50px;
+    font-size: 23px;
+    background-color: #1e5a8b;
+    color: #fff;
+    border: 1px solid #173F5F;
+    position: relative;
+    top: 100px;
+    left: 350px;
+    border-radius: 10px;
+    letter-spacing: 0.125em;
+}
+
+p {
+    font-size: 25px;
+    color: #173F5F;
+    font-weight: 500;
+    letter-spacing: 0.25em;
+}
